@@ -1,0 +1,10 @@
+[
+    {
+        "key": "ctrl+b ctrl+a",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+b ctrl+s",
+        "command": "workbench.action.toggleStatusbarVisibility"
+    }
+]
